@@ -32,7 +32,7 @@ Click Me  :point_right: [ iGRIP_Bank ](igrip-international.000webhostapp.com)
 
 > **Maria DB**
 
-> **XAMPP Server version**
+> **XAMPP Server**
 
 
 ###### **_IDE Used_**
